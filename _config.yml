@@ -20,8 +20,8 @@ locale: en-US
 
 title: "KB Dataservices"
 description: "dataservices of the KB, the national library of the Netherlands"
-url: "https://kbnldataservices.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "/kbnldataservices.github.io-staging"
+url: "https://kbnldataservices.github.io/kbnldataservices.github.io-staging" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/"
 
 
 blogtitle: "KB Dataservices News - STAGING"
