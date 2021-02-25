@@ -1,8 +1,8 @@
 # Sample site navigation bar links
 
 - title: Dataservices News
-  url: /blog/
+  url: https://kbnldataservices.github.io/kbnldataservices.github.io-staging/blog
 - title: Documentation
-  url: /public-docs
+  url: https://kbnldataservices.github.io/public-docs-staging/
 - title: About
-  url: /about
+  url: https://kbnldataservices.github.io/kbnldataservices.github.io-staging/about

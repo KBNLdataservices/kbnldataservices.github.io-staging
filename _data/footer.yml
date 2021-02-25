@@ -3,46 +3,46 @@
   header: KB Dataservices 
   links:
     - title: About
-      url: /about
+      url:  https://kbnldataservices.github.io/kbnldataservices.github.io-staging/about
     - title: Our data
-      url: /our-data
+      url: https://kbnldataservices.github.io/kbnldataservices.github.io-staging/our-data
     - title: Data reuse
-      url: /data-reuse
+      url: https://kbnldataservices.github.io/kbnldataservices.github.io-staging/data-reuse
 
 - block: resources
   header: Resources
   links:
     - title: Documentation
-      url: /public-docs
+      url: https://kbnldataservices.github.io/public-docs-staging
     - title: News
-      url: /blog
+      url: https://kbnldataservices.github.io/kbnldataservices.github.io-staging/blog
     - title: Github
-      url: /github
+      url: https://kbnldataservices.github.io/kbnldataservices.github.io-staging/github
 
 - block: contact
   header: Contact
   links:
     - title: Email
-      url: /email
+      url: https://kbnldataservices.github.io/kbnldataservices.github.io-staging/email
     - title: Twitter
-      url: /twitter
+      url: https://kbnldataservices.github.io/kbnldataservices.github.io-staging/twitter
 
 - block: legal
   header: Legal
   links:
     - title: Terms &amp; Conditions
-      url: /terms-and-conditions
+      url: https://kbnldataservices.github.io/kbnldataservices.github.io-staging/terms-and-conditions
     - title: Privacy Policy
-      url: /privacy-policy
+      url: https://kbnldataservices.github.io/kbnldataservices.github.io-staging/privacy-policy
 
 - block: footer_social_links
   header: Follow us
   links:
     - title: Contact
-      url: /email
+      url: https://kbnldataservices.github.io/kbnldataservices.github.io-staging/email
       icon: fas fa-envelope
     - title: Feed
-      url: atom.xml
+      url: https://kbnldataservices.github.io/kbnldataservices.github.io-staging/atom.xml
       icon: fas fa-rss-square
     - title: Twitter
       url: https://twitter.com/KBdataservices
