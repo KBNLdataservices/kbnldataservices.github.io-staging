@@ -115,10 +115,10 @@ defaults:
   - scope:
       path: "_posts"
       type: posts
-      permalink: /blog/posts/:path/
     values:
       layout: post
       share: true
+      permalink: /blog/posts/:path/
   # Pinned defaults
   - scope:
       path: "_pinned"
