@@ -115,6 +115,7 @@ defaults:
   - scope:
       path: "_posts"
       type: posts
+      permalink: /blog/posts/:path/
     values:
       layout: post
       share: true
