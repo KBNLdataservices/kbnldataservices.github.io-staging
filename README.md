@@ -4,7 +4,7 @@
 
 *Staging & test repo for [https://github.com/KBNLdataservices/kbnldataservices.github.io](https://github.com/KBNLdataservices/kbnldataservices.github.io/tree/gh-pages)* 
 
-You are now on the [```gh-pages``` branch](https://github.com/KBNLdataservices/kbnldataservices.github.io-staging/tree/gh-pages) of this repo. The files on this branch serve the (sub)site [https://kbnldataservices.github.io/kbnldataservices.github.io-staging](https://kbnldataservices.github.io/kbnldataservices.github.io-staging), which is the preview & test site for [https://kbnldataservices.github.io/kbnldataservices.github.io](https://kbnldataservices.github.io/kbnldataservices.github.io).
+You are now on the [```gh-pages``` branch](https://github.com/KBNLdataservices/kbnldataservices.github.io-staging/tree/gh-pages) of this repo. The files on this branch serve the (sub)site [https://kbnldataservices.github.io/kbnldataservices.github.io-staging](https://kbnldataservices.github.io/kbnldataservices.github.io-staging), which is the preview & test site for [https://kbnldataservices.github.io](https://kbnldataservices.github.io).
 
 This repo and its subsite hold the following two groups of pages: 
 
