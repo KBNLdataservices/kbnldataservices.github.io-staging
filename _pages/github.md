@@ -10,11 +10,10 @@ The KB Dataservices Github account is available at **[https://github.com/KBNLdat
 It has the following public repos:
 
 1) [**public-docs**](https://github.com/KBNLdataservices/public-docs): *Public documentation, code, insights, tips & tricks about the public datasets and collections of the KB, the national library of the Netherlands.*
+This production repo serves [https://kbnldataservices.github.io/public-docs](https://kbnldataservices.github.io/public-docs) from its ```gh-pages``` branch. This subsite holds public documentation, manuals, howtos, instructional videos, code, insights, tips & tricks about the public datasets and collections of the KB.
 
- This production repo serves [https://kbnldataservices.github.io/public-docs](https://kbnldataservices.github.io/public-docs) from its ```gh-pages``` branch. This subsite holds public documentation, manuals, howtos, instructional videos, code, insights, tips & tricks about the public datasets and collections of the KB.
-
-2) [**kbnldataservices.github.io**](https://github.com/KBNLdataservices/kbnldataservices.github.io): *News & updates about the dataservices of the KB, the national library of the Netherlands.*
-  This production repo serves [https://kbnldataservices.github.io](https://kbnldataservices.github.io) from its ```gh-pages``` branch. This subsite holds the following two groups of pages: 
+2) [**kbnldataservices.github.io**](https://github.com/KBNLdataservices/kbnldataservices.github.io): *News & updates about the dataservices of the KB, the national library of the Netherlands.* 
+This production repo serves [https://kbnldataservices.github.io](https://kbnldataservices.github.io) from its ```gh-pages``` branch. This subsite holds the following two groups of pages: 
 
  *1) Blog - news and updates*
   * Blog home / latest articles: [https://kbnldataservices.github.io/blog](https://kbnldataservices.github.io/blog), redirected from [https://kbnldataservices.github.io](https://kbnldataservices.github.io), corresponding to [this file](https://github.com/KBNLdataservices/kbnldataservices.github.io/blob/gh-pages/_pages/index.md) in the repo
